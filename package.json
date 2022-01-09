@@ -1,0 +1,31 @@
+{
+  "name": "fab-setup-nodejs",
+  "version": "1.0.0",
+  "description": "projeto de demonstração",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obg-lab/setup-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "demo"
+  ],
+  "author": "Fabiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "fhttps://github.com/obg-lab/setup-nodejs/issues"
+  },
+  "homepage": "fhttps://github.com/obg-lab/setup-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
